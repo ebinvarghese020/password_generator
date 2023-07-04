@@ -5,6 +5,7 @@ This is a password generator application built using Python and Tkinter. The app
 ## Features
 
 - Generate strong and secure passwords based on standard requirements.
+- Search for already saved passwords to wesites.
 - Store passwords securely using file handling.
 
 ## Installation
@@ -16,5 +17,5 @@ This is a password generator application built using Python and Tkinter. The app
 ## Requirements
 
 - Python 3.x
-- Tkinter module (included in the Python standard library)
-- random module, pyperclip module 
+- Tkinter, json module (included in the Python standard library)
+- random module, pyperclip, JSONDecodeError module 
