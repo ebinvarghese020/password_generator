@@ -16,6 +16,6 @@ This is a password generator application built using Python and Tkinter. The app
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - Tkinter, json module (included in the Python standard library)
 - random module, pyperclip, JSONDecodeError module 
